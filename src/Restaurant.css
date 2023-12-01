@@ -1,0 +1,20 @@
+#c1{
+    transition: .5s ease-out;
+}
+#c1:hover{
+    transform: scale(1.2);
+}
+#l1{
+    text-decoration: none;
+}
+
+.cardDiv{
+    justify-content: center;
+    display: flex;
+}
+
+/* @media screen (max-width:1052px) {
+    .p{
+        color: #000; 
+    }
+} */
